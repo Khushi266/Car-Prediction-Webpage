@@ -25,5 +25,6 @@ To run the above code:
          3. ast
          4. nltk
          5. numpy
+         6. pickle
 6. Now refresh the terminal and run the application.py file by following command.
          python application.py
