@@ -19,5 +19,11 @@ To run the above code:
 2. Extract the folder
 3. Install the flask library provided by python:
          pip install flask
-4. Now refresh the terminal and run the application.py file by following command.
+4. Install the following libraries:
+         1. pandas
+         2. scikit-learn
+         3. ast
+         4. nltk
+         5. numpy
+6. Now refresh the terminal and run the application.py file by following command.
          python application.py
